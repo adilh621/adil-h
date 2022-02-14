@@ -1,11 +1,11 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Adil Hussain - Full Stack Web Developer',
+  description: 'Hey, I\'m Adil. I\'m a full stack web developer and designer building things people love.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hey there! I'm Adil Hussain.",
+  desc: "I'm a Full Stack Web Developer and Computer Science major building things people love."
 };
 
 export const projects = {
@@ -13,22 +13,22 @@ export const projects = {
   desc: "Here are some of my favorite projects that I've worked on.",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
-      github: ''
+      title: 'Fulu (Fake Hulu)',
+      description: 'A Hulu clone built with Next.js and Tailwindcss.',
+      link: 'https://fulu-fakehulu-18pc1lxa6-adilh621.vercel.app/',
+      github: 'https://github.com/adilh621/Fulu-hulu2.0'
     },
     {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      title: 'Snippits',
+      description: 'A code sharing application built with React.js, MongoDB, Bootstrap',
+      link: 'https://snip-its.herokuapp.com/',
+      github: 'https://github.com/adilh621/snip-its'
     },
     {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      title: 'Google Books Search',
+      description: 'An application that allows the user to search for and save books built with React.js, Express.js, and MongoDB.',
+      link: 'https://googlebookquery.herokuapp.com/',
+      github: 'https://github.com/adilh621/google-bookquery'
     }
   ]
 };
@@ -41,17 +41,17 @@ export const stack = {
     'JavaScript',
     'Typescript',
     'React',
+    'Node',
     'NextJS',
     'TailwindCSS',
-    'Firebase',
-    'Git'
+    'Git',
+    'C++'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'adilh621@gmail.com',
+  github: 'adilh621',
+  linkedin: 'adilhussainn'
 };
