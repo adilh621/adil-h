@@ -21,7 +21,7 @@ export const projects = {
     {
       title: 'Permutations and Combinations',
       description: 'An app that calculates permutations and combinations.',
-      link: 'permutation-and-combination-calculator.vercel.app',
+      link: 'https://permutation-and-combination-calculator.vercel.app',
       github: 'https://github.com/adilh621/PermutationAndCombinationCalculator'
     },
     {
