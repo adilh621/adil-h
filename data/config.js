@@ -19,10 +19,10 @@ export const projects = {
       github: 'https://github.com/adilh621/Fulu-hulu2.0'
     },
     {
-      title: 'Snippits',
-      description: 'A code sharing application built with React.js, MongoDB, Bootstrap',
-      link: 'https://snip-its.herokuapp.com/',
-      github: 'https://github.com/adilh621/snip-its'
+      title: 'Permutations and Combinations',
+      description: 'An app that calculates permutations and combinations.',
+      link: 'permutation-and-combination-calculator.vercel.app',
+      github: 'https://github.com/adilh621/PermutationAndCombinationCalculator'
     },
     {
       title: 'Google Books Search',
