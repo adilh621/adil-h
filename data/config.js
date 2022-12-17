@@ -25,10 +25,10 @@ export const projects = {
       github: 'https://github.com/adilh621/PermutationAndCombinationCalculator'
     },
     {
-      title: 'Google Books Search',
-      description: 'An application that allows the user to search for and save books built with React.js, Express.js, and MongoDB.',
-      link: 'https://googlebookquery.herokuapp.com/',
-      github: 'https://github.com/adilh621/google-bookquery'
+      title: 'AirBnb (clone)',
+      description: 'A AirBnb clone built with Next.js and Tailwindcss.',
+      link: 'https://air-bnb-indol.vercel.app/',
+      github: 'https://github.com/adilh621/airBnb'
     }
   ]
 };
